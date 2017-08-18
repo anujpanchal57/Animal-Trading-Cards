@@ -1,0 +1,60 @@
+/* add your CSS here */
+
+.dogimg {
+  width: 300px;
+  height: 200px;
+  margin-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.description {
+  font-style: italic;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.mainframe {
+  border-style: solid;
+  border-width: thin;
+  box-shadow: 5px 5px 5px #DCDCDC;
+  border-color: #708090;
+  width: 340px;
+  border-collapse: separate;
+  border-spacing: 30px 40px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.spec {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.subframe {
+  border-style: solid;
+  border-width: thin;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-color: #708090;
+  border-collapse: separate;
+  border-spacing: 30px 40px;
+  margin-bottom: 10px;
+  padding-top: 3px;
+
+}
+
+h3 {
+  margin-left: 27px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 1px;
+}
+
+.shortdescription {
+  margin-left: 10px; 
+  margin-right: 10px;
+}
